@@ -1,4 +1,4 @@
-# ADIDAS US RETAIL PRODUCTS
+# ADIDAS US RETAIL PRODUCTS VISUALIZATION
 Prepare the Adidas US Retail Products dataset using Python and build data visualization using Power BI.
 
 ### Dataset Source
